@@ -1,0 +1,28 @@
+body {
+    /* background-color: rgb(176, 138, 212); */
+
+/* background-image: url("https://picsum.photos/2000/2000?random=1"); */
+
+background-image: url("https://picsum.photos/200/200?random=1");
+/* background-repeat: repeat-x; */
+/* background-repeat: repeat-y; */
+background-repeat: no-repeat;
+/* background-position: right top; */
+/* background-position: right; */
+/* background-position: center; */
+background-position: right top;
+background-attachment: fixed;
+
+
+
+
+}
+
+.one {
+    opacity: 0.3;
+}
+
+.bg-img {
+
+    background-image: url("https://picsum.photos/2000/2000?random=5");
+}

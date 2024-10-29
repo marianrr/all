@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+.soto {
+    height: 100px;
+    align-content: center;
+    background-color: brown;
+    width: fit-content;
+=======
+.container {
+    background-color: #7bf46e;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+>>>>>>> 47f134da69f0504a5d40398b884b5bc50afc52f3
+}

@@ -1,0 +1,11 @@
+@import "node_modules/material-symbols/index.css";
+
+
+.material-symbols-outlined {
+    color: red;
+    font-size: 50px;
+}
+
+img {
+    border-radius: 10px;
+}

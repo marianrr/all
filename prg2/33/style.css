@@ -1,0 +1,25 @@
+#tutu {
+    width: 30px;
+    height: 50px;
+    transition: 2s transform
+}
+
+#tutu:hover {
+    transform: scale(3,3)
+}
+
+table, tr, td, th {
+    border: green 1px solid
+}
+
+#kike {
+    width: 50px;
+    height: 50px;
+    background-color: coral;
+    animation: 3s infinite lolo
+}
+
+@keyframes lolo {
+    from {transform: translateX(10px)}
+    to {transform: translateX(1200px)}
+}

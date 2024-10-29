@@ -1,0 +1,24 @@
+{
+  "name": "marian",
+  "version": "1.0.0",
+  "description": "best web developer in town",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "best",
+    "dev",
+    "town"
+  ],
+  "author": "marian",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

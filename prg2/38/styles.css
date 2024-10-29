@@ -1,0 +1,13 @@
+.container {
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(2, 0.1fr);
+    grid-column-gap: 2px;
+    grid-row-gap: 8px;
+    text-align: center;
+    align-items: center;
+}
+
+.container>div {
+    background-color: #9eb7fc;
+}

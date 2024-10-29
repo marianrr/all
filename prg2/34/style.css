@@ -1,0 +1,27 @@
+#one {
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+    transition: transform  4s;
+}
+
+#two {
+    width: 40px;
+    height: 40px;
+    animation: coco 4s infinite;
+}
+
+#one:hover {
+
+    
+    transform: scale(4,4);
+}
+
+@keyframes coco {
+    from {
+        transform: translateX(100px)
+    }
+    to {
+        transform: translateX(1000px)
+    }
+}

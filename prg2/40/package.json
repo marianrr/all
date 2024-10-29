@@ -1,0 +1,19 @@
+{
+  "name": "miau",
+  "version": "1.0.0",
+  "description": "dau hau bau",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "soto",
+    "inteso",
+    "lush"
+  ],
+  "author": "mili",
+  "license": "ISC",
+  "dependencies": {
+    "material-symbols": "^0.25.1"
+  }
+}
